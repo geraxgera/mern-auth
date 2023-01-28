@@ -1,0 +1,8 @@
+// um client zu starten: "npm start"
+
+// um server zu starten: "npm run dev"
+
+// DATEN VON :ENV DATEI
+
+// MDB_CONNECT=mongodb+srv://test:test123@cluster0.ynz4t8r.mongodb.net/?retryWrites=true&w=majority
+// JWT_SECRET=GafrKWUseTX825sczgvWfCaa

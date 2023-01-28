@@ -59,7 +59,6 @@ router.post("/", async (req, res) => {
       process.env.JWT_SECRET
     );
 
-
     //send the token in a HTTP-only cookie
 
     res
